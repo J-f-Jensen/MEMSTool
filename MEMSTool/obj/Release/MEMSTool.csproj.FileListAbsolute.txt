@@ -1,0 +1,9 @@
+C:\Users\Bruger\OneDrive\Skrivebord\CODE\C#\MEMSTool\MEMSTool\bin\Release\MEMSTool.exe.config
+C:\Users\Bruger\OneDrive\Skrivebord\CODE\C#\MEMSTool\MEMSTool\bin\Release\MEMSTool.exe
+C:\Users\Bruger\OneDrive\Skrivebord\CODE\C#\MEMSTool\MEMSTool\bin\Release\MEMSTool.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\CODE\C#\MEMSTool\MEMSTool\obj\Release\MEMSTool.FormMain.resources
+C:\Users\Bruger\OneDrive\Skrivebord\CODE\C#\MEMSTool\MEMSTool\obj\Release\MEMSTool.Properties.Resources.resources
+C:\Users\Bruger\OneDrive\Skrivebord\CODE\C#\MEMSTool\MEMSTool\obj\Release\MEMSTool.csproj.GenerateResource.cache
+C:\Users\Bruger\OneDrive\Skrivebord\CODE\C#\MEMSTool\MEMSTool\obj\Release\MEMSTool.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\CODE\C#\MEMSTool\MEMSTool\obj\Release\MEMSTool.exe
+C:\Users\Bruger\OneDrive\Skrivebord\CODE\C#\MEMSTool\MEMSTool\obj\Release\MEMSTool.pdb

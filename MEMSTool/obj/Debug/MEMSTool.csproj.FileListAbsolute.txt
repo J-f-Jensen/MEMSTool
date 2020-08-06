@@ -1,0 +1,10 @@
+C:\Users\Bruger\source\repos\MEMSTool\MEMSTool\bin\Debug\MEMSTool.exe.config
+C:\Users\Bruger\source\repos\MEMSTool\MEMSTool\bin\Debug\MEMSTool.exe
+C:\Users\Bruger\source\repos\MEMSTool\MEMSTool\bin\Debug\MEMSTool.pdb
+C:\Users\Bruger\source\repos\MEMSTool\MEMSTool\obj\Debug\MEMSTool.csprojAssemblyReference.cache
+C:\Users\Bruger\source\repos\MEMSTool\MEMSTool\obj\Debug\MEMSTool.FormMain.resources
+C:\Users\Bruger\source\repos\MEMSTool\MEMSTool\obj\Debug\MEMSTool.Properties.Resources.resources
+C:\Users\Bruger\source\repos\MEMSTool\MEMSTool\obj\Debug\MEMSTool.csproj.GenerateResource.cache
+C:\Users\Bruger\source\repos\MEMSTool\MEMSTool\obj\Debug\MEMSTool.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\MEMSTool\MEMSTool\obj\Debug\MEMSTool.exe
+C:\Users\Bruger\source\repos\MEMSTool\MEMSTool\obj\Debug\MEMSTool.pdb
